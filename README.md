@@ -8,5 +8,5 @@ Estudiantes de la facultad de FCFM
 
 [Ejercicios de  Paython](https://github.com/serrano-lizeth/mineria_de_datos/blob/main/Ej_Python_1854410.ipynb)
 
-
+[Ejercicio de Limpieza](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Ej_Limpieza_2.ipynb)
 
