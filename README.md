@@ -11,3 +11,7 @@ Estudiantes de la facultad de FCFM
 [Ejercicio de Limpieza](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Ej_Limpieza_2.ipynb)
 
 [Avance del proyecto](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Avance1_PIA_2.ipynb)
+
+[Presentación] (https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Presentacion_Outliers_2.pdf)
+
+
