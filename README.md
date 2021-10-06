@@ -15,3 +15,6 @@ Estudiantes de la facultad de FCFM
 [Presentación](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Presentacion_Outliers_2.pdf)
 [|Preguntas](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Preguntas%20y%20Respuestas%20Outliers.pdf)
 
+[Ejercicio visualización](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Visualizacion_Equipo2.ipynb)
+
+[Avance  del proyecto II](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/AvancePIA_II_002_Equipo2.ipynb)
