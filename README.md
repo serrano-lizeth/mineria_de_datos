@@ -12,6 +12,7 @@ Estudiantes de la facultad de FCFM
 
 [Avance del proyecto](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Avance1_PIA_2.ipynb)
 
+## FASE 2
 [Presentación](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Presentacion_Outliers_2.pdf)
 [|Preguntas](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Preguntas%20y%20Respuestas%20Outliers.pdf)
 
