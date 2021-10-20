@@ -21,3 +21,6 @@ Estudiantes de la facultad de FCFM
 [Avance  del proyecto II](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/AvancePIA_II_002_Equipo2.ipynb)
 
 [Tecnicas de mineria](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/T%C3%A9cnicas_de_Mineria_Equipo_02.ipynb)
+
+#PIA
+[Notebook final](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Notebook_Equipo2.ipynb)
