@@ -22,5 +22,5 @@ Estudiantes de la facultad de FCFM
 
 [Tecnicas de mineria](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/T%C3%A9cnicas_de_Mineria_Equipo_02.ipynb)
 
-#PIA
+## PIA
 [Notebook final](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Notebook_Equipo2.ipynb)
