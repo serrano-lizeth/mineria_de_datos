@@ -25,4 +25,4 @@ Estudiantes de la facultad de FCFM
 ## PIA
 [Notebook final](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Notebook_Equipo2.ipynb)
 
-[Póster]()
+[Póster](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/AN%C3%81LISIS%20DE%20VENTAS%20DE%20VERANO%20EN%20WISH.pdf)
